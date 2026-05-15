@@ -34,8 +34,6 @@ Diagram: see `Relational_2.png` for the ERD and `partitions.png` for the partiti
 ├── Relational_2.png                        -- ER diagram
 ├── partitions.png                          -- Patients table partitioning diagram
 ├── hospital_project_documentation.docx     -- Full project write-up
-├── hospital_project_documentation_v2.docx  -- Revised write-up
-├── hospital_project_documentation(LQOO56).pdf  -- PDF export of the documentation
 └── *.csv                                   -- Seed data for each table
 ```
 
@@ -118,7 +116,7 @@ The CSVs use the column order of their target tables. Load them with SQL*Loader,
 
 ## Documentation
 
-Full write-up of design decisions, ER reasoning, partitioning rationale, and query examples lives in `hospital_project_documentation.docx` (and the PDF export).
+Full write-up of design decisions, ER reasoning, partitioning rationale, and query examples lives in `hospital_project_documentation.docx`.
 
 ## License
 
